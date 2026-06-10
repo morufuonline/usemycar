@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/xtmobigi/PHPExcel/Tests/01pharSimple.php",
+		"/C/Development/reliancewisdom/privates/process-data.php",
+		"/C/Users/Pixie3/Desktop/Beautyhub-30-08-2016/reliancewisdom/includes/header.php",
+		"/C/Users/Pixie3/Desktop/windowsriskcontrol/includes/header.php",
+		"/C/Users/Pixie3/Desktop/resourcedge/includes/header.php",
+		"/C/Users/Pixie3/Desktop/convert-currency-using-google-api/container.php",
+		"/C/Users/Pixie3/Desktop/convert-currency-using-google-api/index.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_recaptcha-php-1.11.zip/recaptcha-php-1.11/recaptchalib.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_autocomplete ajax.zip/autocomplete ajax/search.php",
+		"/C/Users/Pixie3/Desktop/convert-currency-using-google-api/convert.php",
+		"/C/Users/Pixie3/Desktop/convert-currency-using-google-api/functions.php",
+		"/C/Users/Pixie3/Downloads/voguepay1/voguepay/controllers/front/return.php",
+		"/C/xampp/htdocs/event/include/menu.php",
+		"/C/Users/Pixie3/Desktop/now.php",
+		"/C/Users/Pixie3/Desktop/event/event/user/module/event.php",
+		"/C/Users/Pixie3/Desktop/MagentoMarketplace/MagentoMarketplace/src/app/code/local/Webkul/Marketplace/Block/Associate.php",
+		"/C/Users/Pixie3/Desktop/mobiginterswitch.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_quickteller.zip/quickteller/payment.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_quickteller.zip/quickteller/controllers/front/payment.php",
+		"/C/Users/Pixie3/Downloads/voguepay1/voguepay/validation.php",
+		"/C/xampp/htdocs/beautyhub/include/mail.php",
+		"/C/xampp/htdocs/xtmobigi/user/online_payment.php",
+		"/C/xampp/htdocs/xtmobigi/user/online_payment_notify_url.php",
+		"/C/xampp/htdocs/mall4shopper/app/design/frontend/sm-etrostore/default/template/sm/basicproducts/basic-slider-home2.phtml",
+		"/C/xampp/htdocs/mall4shopper/includes/src/Pixie_SkynetShipping_Model_System_Config_Source_Service.php",
+		"/C/xampp/htdocs/whatproperty/inc/db.php",
+		"/C/Users/Pixie3/Desktop/PHPExcel-1.8/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DAVERAGE.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_quickteller.zip/quickteller/validation.php",
+		"/C/Users/Pixie3/Downloads/bankwireinnermodule/bankwire/index.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_interswitch.zip/interswitch/interswitch.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp2_quickteller.zip/quickteller/controllers/front/payment.php",
+		"/C/xampp/htdocs/whatproperty/cp/adm_logout.php",
+		"/C/xampp/htdocs/event/include/header.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_quickteller.zip/quickteller/controllers/front/validation.php",
+		"/C/xampp/htdocs/xtmobigi/user/fund_wallet_notify_url.php",
+		"/H/header.php",
+		"/C/xampp/htdocs/xtmobigi/cp/inc/send_sms.php",
+		"/H/event/event/blog.php",
+		"/C/Users/Pixie3/Desktop/event/event/appointment.php",
+		"/C/Users/Pixie3/Desktop/cihpdonatecontent/CihpDonateContent.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_cihpdonatecontent.zip/cihpdonatecontent/CihpDonateContent.php",
+		"/C/xampp/htdocs/mall4shopper/app/code/community/Savvy/Accesspay/Block/Info/Accesspay.php",
+		"/C/xampp/htdocs/mall4shopper/app/code/community/Savvy/Accesspay/Block/Adminhtml/System/Config/Form/VerifyAccountButton.php",
+		"/C/xampp/htdocs/mall4shopper/html/app/code/core/Mage/Payment/Model/Method/Cashondelivery.php",
+		"/C/xampp/htdocs/mall4shopper/app/code/community/Savvy/Accesspay/Model/Accesspay.php",
+		"/C/xampp/htdocs/mall4shopper/app/Mage.php",
+		"/H/New folder/request-password.php",
+		"/C/xampp/htdocs/beautyhub/admin/test.php",
+		"/C/Users/Pixie3/Downloads/21022017-1218/bak/includes/config.php",
+		"/C/xampp/htdocs/mall4shopper/app/code/local/nnnn/Savvy/AccessEPay/sql/accessepay_setup/install.php",
+		"/C/Users/Pixie3/Downloads/21022017-1218/includes/config.php",
+		"/C/Users/Pixie3/Downloads/21022017-1218/html/includes/config.php",
+		"/C/xampp/htdocs/beautyhub/modules/registrationClass.php",
+		"/C/Users/Pixie3/Desktop/personal/share.php",
+		"/F/event/modules/daily.php",
+		"/C/Users/Pixie3/Desktop/pixie/XTmo/backup-12.15.2016_15-07-22_proxtmo/backup-12.15.2016_15-07-22_proxtmo/homedir/public_html/inc/db.php",
+		"/C/Users/Pixie3/Desktop/event/event/include/mail.php",
+		"/C/xampp/htdocs/beautyhub/admin/include/header.php",
+		"/F/event/cms.php",
+		"/C/xampp/htdocs/beautyhub/admin/modules/service.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_user.zip/user/module/event.php",
+		"/C/Users/Pixie3/AppData/Local/Temp/Temp1_user.zip/user/module/profile.php",
+		"/C/xampp/htdocs/xtmobigi/footer_nav.php",
+		"/C/xampp/htdocs/barbershop/myaccount.php",
+		"/C/xampp/htdocs/beautyhub/advert.php",
+		"/C/xampp/htdocs/beautyhub/blog-details.php",
+		"/C/xampp/htdocs/beautyhub/blogs.php",
+		"/C/xampp/htdocs/beautyhub/choose-listing.php",
+		"/C/xampp/htdocs/beautyhub/listing-detail.php",
+		"/C/xampp/htdocs/beautyhub/modules/registration.php",
+		"/C/xampp/htdocs/beautyhub/modules/newsletter.php",
+		"/C/xampp/htdocs/beautyhub/post-job.php",
+		"/C/Users/Pixie3/Desktop/event/controller/Controller.php",
+		"/C/xampp/htdocs/xtmobigi/index.php",
+		"/C/Users/Pixie3/Desktop/personal/user/register.php",
+		"/C/Users/Pixie3/Desktop/personal/user/article.php",
+		"/C/xampp/htdocs/beautyhub/notFound.php",
+		"/C/xampp/htdocs/xtmobigi/register.php",
+		"/C/xampp/htdocs/barbershop/logout.php",
+		"/C/xampp/htdocs/barbershop/api/controller/api_file.php",
+		"/C/xampp/htdocs/beautyhub/modules/blogs.php",
+		"/C/Users/Pixie3/Desktop/share.php",
+		"/C/xampp/htdocs/xtmobigi/css/style.css",
+		"/C/xampp/htdocs/event/controller/Controller.php",
+		"/C/xampp/htdocs/event/index.php",
+		"/C/xampp/htdocs/beautyhub/include/header.php",
+		"/C/xampp/htdocs/beautyhub/include/footer.php",
+		"/C/xampp/htdocs/beautyhub/test.php",
+		"/C/Users/Pixie3/Desktop/event/event/modules/pastevent.php",
+		"/C/Users/Pixie3/Desktop/event/event/events.php",
+		"/C/Users/Pixie3/Desktop/event/event/controller/Controller.php",
+		"/C/xampp/htdocs/beautyhub/beautyschool - Copy.php",
+		"/C/xampp/htdocs/event/controller/connect.php",
+		"/C/xampp/htdocs/xtmobigi/cp/adm_ed_cov_country.php",
+		"/C/xampp/htdocs/xtmobigi/cp/inc/wallet_setting.php",
+		"/C/Users/Pixie3/Downloads/downloaded_barbershop/administrator/index.php",
+		"/C/xampp/htdocs/xtmobigi/user/buy_sms.php",
+		"/C/xampp/htdocs/xtmobigi/user/inc/cron_schedule_scr.php",
+		"/C/xampp/htdocs/xtmobigi/user/inc/db.php",
+		"/C/xampp/htdocs/xtmobigi/api.php",
+		"/C/xampp/htdocs/te/thumbs.php",
+		"/C/xampp/htdocs/barbershop/Connections/barbershop.php",
+		"/C/xampp/htdocs/barbershop/api/controller/connection.php",
+		"/C/xampp/htdocs/barbershop/api/controller/GetModel.php",
+		"/C/xampp/htdocs/xtmobigi/cp/adm_home.php",
+		"/C/xampp/htdocs/xtmobigi/cp/adm_wallet_history.php",
+		"/C/xampp/htdocs/xtmobigi/cp-backup/adm_credit_pending_mgt.php",
+		"/C/xampp/htdocs/pixiesms/cp/adm_config.php",
+		"/C/xampp/htdocs/pixiesms/cp/adm_coverage_mgt.php",
+		"/C/xampp/htdocs/pixiesms/cp/adm_ed_cov_country.php",
+		"/C/xampp/htdocs/pixiesms/cp/adm_ed_cov_network.php",
+		"/C/xampp/htdocs/xtmobigi/cp-backup/adm_topup_history.php",
+		"/C/xampp/htdocs/pixiesms/cp/adm_home.php",
+		"/C/Users/Pixie3/Downloads/downloaded_barbershop/public_html/public_html/classes/Validate.php",
+		"/C/Users/Pixie3/Downloads/downloaded_barbershop/newsletter_v1.4/newsletter_v1.4/admin/tabs/AdminNewsletter.php",
+		"/C/xampp/htdocs/xtmobigi/user/header.php",
+		"/C/xampp/htdocs/pixiesms/user/user_acc_set.php",
+		"/C/xampp/htdocs/pixiesms/user/user_ed_bio.php",
+		"/C/xampp/htdocs/pixiesms/user/user_send_single_msg.php",
+		"/C/xampp/htdocs/pixiesms/user/user_draft_mgt.php",
+		"/C/xampp/htdocs/pixiesms/user/user_phonebook_mgt.php",
+		"/C/xampp/htdocs/pixiesms/user/user_new_phonebook.php",
+		"/C/xampp/htdocs/xtmobigi/user/user_acc_set.php",
+		"/C/xampp/htdocs/xtmobigi/login.php",
+		"/C/Users/Pixie3/Desktop/pixie/XTmo/backup-12.15.2016_15-07-22_proxtmo/backup-12.15.2016_15-07-22_proxtmo/homedir/public_html/user/inc/user_phonebook_scr.php",
+		"/C/xampp/htdocs/xtmobigi/user/user_schedule_mgt.php",
+		"/C/xampp/htdocs/xtmobigi/user/credit_check.php",
+		"/C/xampp/htdocs/pixiesms/cp/adm_faq_mgt.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$countPrefix",
+			"$countNetwork",
+			"$countCountry",
+			"$wta_memo",
+			"$_SESSION['alert']",
+			"bs-items",
+			".bs-items",
+			"asic-products-slider",
+			"add_menu_page",
+			"$control",
+			"isPasswd($passwd, $size = 5)",
+			"5",
+			".dark_blue",
+			"regisNewsletter",
+			"$rst",
+			"n order to use this module, please fill out the form with the logins provided to you by VoguePay.",
+			"$searchQry2Res",
+			"urlSearchStr1",
+			"$urlSearchStr1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
